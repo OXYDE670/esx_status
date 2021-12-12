@@ -31,5 +31,3 @@ TriggerEvent('esx_status:registerStatus', name, default, color,
 
 
 ```
-
-**Crée par OXYDE#0001**
